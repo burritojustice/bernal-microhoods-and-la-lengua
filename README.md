@@ -4,6 +4,10 @@ slippy map of Bernal microhoods, plus La Lengua
 
 https://burritojustice.github.io/bernal-microhoods-and-la-lengua
 
+per treaty negotiatons with Bernalwood
+
+https://bernalwood.com/2014/03/18/your-official-guide-to-the-real-microhoods-of-bernal-heights/
+
 microhood geometry from Who's On First
 
 https://whosonfirst.mapzen.com/spelunker/id/85865945/descendants/?exclude=nullisland&placetype=microhood
