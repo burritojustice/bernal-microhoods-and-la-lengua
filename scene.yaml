@@ -1,12 +1,11 @@
 import:
-    # - https://mapzen.com/carto/refill-style-no-labels/refill-style-no-labels.yaml
-    - https://mapzen.com/carto/refill-style/9/refill-style.zip
-    - https://mapzen.com/carto/refill-style/9/themes/label-4.zip
-    # - https://mapzen.com/carto/refill-style/9/themes/detail-6.zip
-    # recolor basemap style with a theme color
-    # - https://mapzen.com/carto/refill-style/8/themes/color-gray-gold.zip
-    # - https://mapzen.com/carto/refill-style-more-labels/refill-style-more-labels.yaml
-    - https://mapzen-assets.s3.amazonaws.com/resources/demo.yaml
+    - https://www.nextzen.org/carto/refill-style/refill-style.zip
+    # - https://www.nextzen.org/carto/refill-style/themes/color-gray-gold.zip
+    # - https://www.nextzen.org/carto/refill-style/themes/color-inverted.zip    
+    - https://s3.amazonaws.com/xyz-demo/data/demo.yaml
+    - https://www.nextzen.org/carto/refill-style/11/themes/label-4.zip
+    # - https://www.nextzen.org/carto/refill-style/themes/terrain-shading.zip
+    - https://www.nextzen.org/carto/refill-style/11/themes/terrain-shading-dark.zip
 
 global:
     order: |
