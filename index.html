@@ -29,14 +29,14 @@
             center: [37.7418, -122.4207],
             zoom: 14.9563,
             tangramOptions: {
-                scene: 'https://mapzen.com/api/scenes/22/1192/resources/scene.yaml'
+                scene: 'scene.yaml'
             }
         });
-        L.Mapzen.hash({
+        L.Nextzen.hash({
             map: map
         });
         L.control.scale().addTo(map);
-        L.Mapzen.bug({
+        L.Nextzen.bug({
             name: 'Sonoma & Napa VIIRS fire map',
             link: 'https://github.com/burritojustice/bernal-microhoods-and-la-lengua',
             tweet: 'Microhoods of Bernal, and the Autononomous Zone of La Lengua ',
