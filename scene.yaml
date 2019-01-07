@@ -55,12 +55,12 @@ sources:
 
     la_lengua:
         type: GeoJSON
-        url: https://whosonfirst.mapzen.com/data/102/112/179/102112179.geojson
+        url: https://data.whosonfirst.org/102/112/179/102112179.geojson
         generate_label_centroids: true
 
     lost_tribe:
         type: GeoJSON
-        url: https://whosonfirst.mapzen.com/data/420/780/711/420780711.geojson
+        url: https://data.whosonfirst.org/420/780/711/420780711.geojson
         generate_label_centroids: true
 
 
